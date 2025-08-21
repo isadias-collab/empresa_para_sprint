@@ -17,6 +17,9 @@ Logotipo, representando inovação, tecnologia e modernidade.
 <img width="61" height="81" alt="image" src="https://github.com/user-attachments/assets/50d77061-db73-4740-9968-b952df879f40" />
 
 
+
+
+
 2. Apresentação Institucional
 
 Elaboração da descrição da empresa: A Code6 é focada em criar soluções digitais personalizadas, como softwares sob medida, aplicativos móveis, sistemas de automação e plataformas digitais.
