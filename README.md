@@ -18,7 +18,7 @@ Logotipo:
 
 <img width="185" height="212" alt="image" src="https://github.com/user-attachments/assets/53d908de-5223-4484-a853-1e9425608a7e" />
 
-
+_______________________________________________________________________________________________________
 
 Nossa logo tem como características semelhantes a um “6”, representando o nossa equipe de 6 membro especializados. A cor roxa remete a forma calma da nossa postura e o valor da qualidade que buscamos para o cliente, com o maior desempenho moderno.
 
@@ -29,6 +29,8 @@ Elaboração da descrição da empresa: A Code6 é focada em criar soluções di
 
 Definição do diferencial competitivo: excelência técnica + agilidade + proximidade com o cliente.
 
+_______________________________________________________________________________________________________
+
 3. Missão, Visão e Proposta de Valor
 
 Missão: Desenvolver soluções digitais inovadoras, seguras e escaláveis.
@@ -37,11 +39,15 @@ Visão: Ser reconhecida como referência em tecnologia no Brasil.
 
 Proposta de Valor: Inovação, personalização e agilidade como pilares estratégicos.
 
+_______________________________________________________________________________________________________
+
 4. Definição do Público-Alvo
 
 Empresas e organizações que buscam soluções tecnológicas sob medida (startups, setor financeiro, indústrias, varejo e empresas digitais).
 
 Identificação das principais dores e desafios: integração de sistemas, redução de custos, inovação e escalabilidade.
+
+_______________________________________________________________________________________________________
 
 5. Análise de Mercado e Concorrência
 
@@ -49,19 +55,25 @@ Estudo das tendências do setor: inteligência artificial, computação em nuvem
 
 Identificação dos concorrentes e diferenciação da Code6 por meio de personalização e parceria estratégica.
 
+_______________________________________________________________________________________________________
+
 6. Identidade Visual e Comunicação
 
-Tipografia: Inter Bold (títulos) + Roboto Regular (textos longos).
+Tipografia: Poppins
 
-Estilo Visual: moderno, limpo e profissional, com ícones minimalistas e fotografias realistas.
+Estilo Visual: moderno, limpo e profissional, com ícones minimalistas.
 
 Tom de Marca: técnico, acessível e confiável.
+
+_______________________________________________________________________________________________________
 
 7. Posicionamento da Marca
 
 Desejo de ser percebida como empresa confiável, inovadora e estratégica.
 
 Principais atributos: inovação contínua, qualidade técnica, agilidade, parceria estratégica e credibilidade.
+
+_______________________________________________________________________________________________________
 
 8. Portfólio de Serviços
 
@@ -75,9 +87,13 @@ Consultoria em tecnologia.
 
 Plataformas digitais e e-commerce.
 
+_______________________________________________________________________________________________________
+
 9. Estratégia de Preços
 
 Modelo de cobrança por projeto fechado, garantindo transparência, planejamento e alinhamento de expectativas.
+
+_______________________________________________________________________________________________________
 
 10. Marketing e Divulgação
 
@@ -86,6 +102,8 @@ Marketing de Conteúdo: blogs, e-books, estudos de caso e vídeos educativos.
 Redes Sociais: LinkedIn, Instagram e YouTube para visibilidade e captação de clientes.
 
 Anúncios pagos estratégicos para alcance segmentado.
+
+_______________________________________________________________________________________________________
 
 11. Vendas e Relacionamento com Clientes
 
