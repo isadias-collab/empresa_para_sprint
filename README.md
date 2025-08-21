@@ -3,15 +3,18 @@
 
 O projeto desenvolvido teve como objetivo a criação de uma empresa como parte da atividade prática da sprint.
 
+
 🛠 Tecnologias Utilizadas
 
 Ferramentas Utilizadas: Figma e Canva
+
 
 📁 Passo a Passo da criação
 
 1. Definição da Identidade Visual
 
 Nome da empresa: Code6.
+
 
 Logotipo:
 
