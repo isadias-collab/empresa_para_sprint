@@ -18,10 +18,10 @@ Logotipo:
 
 <img width="185" height="212" alt="image" src="https://github.com/user-attachments/assets/53d908de-5223-4484-a853-1e9425608a7e" />
 
-_______________________________________________________________________________________________________
 
 Nossa logo tem como características semelhantes a um “6”, representando o nossa equipe de 6 membro especializados. A cor roxa remete a forma calma da nossa postura e o valor da qualidade que buscamos para o cliente, com o maior desempenho moderno.
 
+_______________________________________________________________________________________________________
 
 2. Apresentação Institucional
 
