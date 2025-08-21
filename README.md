@@ -13,11 +13,13 @@ Ferramentas Utilizadas: Figma e Canva
 
 Nome da empresa: Code6.
 
-Logotipo, representando inovação, tecnologia e modernidade.
+Logotipo:
+
+
 <img width="61" height="81" alt="image" src="https://github.com/user-attachments/assets/50d77061-db73-4740-9968-b952df879f40" />
 
 
-
+Nossa logo tem como características semelhantes a um “6”, representando o nossa equipe de 6 membro especializados. A cor roxa remete a forma calma da nossa postura e o valor da qualidade que buscamos para o cliente, com o maior desempenho moderno.
 
 
 2. Apresentação Institucional
