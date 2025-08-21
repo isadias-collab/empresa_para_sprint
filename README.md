@@ -1,4 +1,5 @@
-# empresa_para_sprint
+# Empresa - Sprint
+CODE6
 📌 Descrição do Projeto
 
 O projeto desenvolvido teve como objetivo a criação de uma empresa como parte da atividade prática da sprint.
