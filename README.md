@@ -65,6 +65,10 @@ Estilo Visual: moderno, limpo e profissional, com ícones minimalistas.
 
 Tom de Marca: técnico, acessível e confiável.
 
+
+<img width="311" height="334" alt="image" src="https://github.com/user-attachments/assets/8afc24ef-9134-4aca-a3ca-936507120430" />
+
+
 _______________________________________________________________________________________________________
 
 7. Posicionamento da Marca
