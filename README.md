@@ -1,4 +1,4 @@
-#CODE6
+<h1 align="center">🏢 CODE6 - Soluções Digitais 🚀</h1>
 🏢 Empresa - Sprint: CODE6
 ___________________________________________________________________________________
 📌 Descrição do Projeto
