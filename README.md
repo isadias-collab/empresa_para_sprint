@@ -1,41 +1,35 @@
-# Empresa - Sprint
-CODE6
+🏢 Empresa - Sprint: CODE6
 📌 Descrição do Projeto
 
-O projeto desenvolvido teve como objetivo a criação de uma empresa como parte da atividade prática da sprint.
-
+O projeto teve como objetivo a criação de uma empresa fictícia como parte da atividade prática da sprint, desenvolvendo sua identidade, proposta e comunicação visual.
 
 🛠 Tecnologias Utilizadas
 
-Ferramentas Utilizadas: Figma e Canva
+Ferramentas: Figma e Canva
 
+📁 Passo a Passo da Criação
+1️⃣ Definição da Identidade Visual
 
-📁 Passo a Passo da criação
-
-1. Definição da Identidade Visual
-
-Nome da empresa: Code6.
-
+Nome da empresa: Code6
 
 Logotipo:
+<img width="185" height="212" alt="Logotipo Code6" src="https://github.com/user-attachments/assets/53d908de-5223-4484-a853-1e9425608a7e" />
 
+Características da logo:
 
-<img width="185" height="212" alt="image" src="https://github.com/user-attachments/assets/53d908de-5223-4484-a853-1e9425608a7e" />
+Inspirada no número "6", representando a equipe de 6 membros especializados.
 
+Cor roxa: transmite calma, qualidade e modernidade.
 
-Nossa logo tem como características semelhantes a um “6”, representando o nossa equipe de 6 membro especializados. A cor roxa remete a forma calma da nossa postura e o valor da qualidade que buscamos para o cliente, com o maior desempenho moderno.
+Estilo moderno e limpo, alinhado à identidade da empresa.
 
-_______________________________________________________________________________________________________
+2️⃣ Apresentação Institucional
 
-2. Apresentação Institucional
+Descrição: A Code6 cria soluções digitais personalizadas, como softwares sob medida, aplicativos móveis, sistemas de automação e plataformas digitais.
 
-Elaboração da descrição da empresa: A Code6 é focada em criar soluções digitais personalizadas, como softwares sob medida, aplicativos móveis, sistemas de automação e plataformas digitais.
+Diferencial competitivo: excelência técnica, agilidade e proximidade com o cliente.
 
-Definição do diferencial competitivo: excelência técnica + agilidade + proximidade com o cliente.
-
-_______________________________________________________________________________________________________
-
-3. Missão, Visão e Proposta de Valor
+3️⃣ Missão, Visão e Proposta de Valor
 
 Missão: Desenvolver soluções digitais inovadoras, seguras e escaláveis.
 
@@ -43,78 +37,59 @@ Visão: Ser reconhecida como referência em tecnologia no Brasil.
 
 Proposta de Valor: Inovação, personalização e agilidade como pilares estratégicos.
 
-_______________________________________________________________________________________________________
+4️⃣ Definição do Público-Alvo
 
-4. Definição do Público-Alvo
+Segmento: Startups, setor financeiro, indústrias, varejo e empresas digitais.
 
-Empresas e organizações que buscam soluções tecnológicas sob medida (startups, setor financeiro, indústrias, varejo e empresas digitais).
+Principais desafios: Integração de sistemas, redução de custos, inovação e escalabilidade.
 
-Identificação das principais dores e desafios: integração de sistemas, redução de custos, inovação e escalabilidade.
+5️⃣ Análise de Mercado e Concorrência
 
-_______________________________________________________________________________________________________
+Tendências do setor: inteligência artificial, computação em nuvem, segurança cibernética, mobile-first.
 
-5. Análise de Mercado e Concorrência
+Diferenciação: personalização e parceria estratégica com clientes.
 
-Estudo das tendências do setor: inteligência artificial, computação em nuvem, segurança cibernética, mobile-first.
-
-Identificação dos concorrentes e diferenciação da Code6 por meio de personalização e parceria estratégica.
-
-_______________________________________________________________________________________________________
-
-6. Identidade Visual e Comunicação
+6️⃣ Identidade Visual e Comunicação
 
 Tipografia: Poppins
 
-Estilo Visual: moderno, limpo e profissional, com ícones minimalistas.
+Estilo Visual: moderno, limpo e profissional, com ícones minimalistas
 
-Tom de Marca: técnico, acessível e confiável.
+Tom de Marca: técnico, acessível e confiável
 
+<img width="311" height="334" alt="Identidade Visual Code6" src="https://github.com/user-attachments/assets/8afc24ef-9134-4aca-a3ca-936507120430" />
+7️⃣ Posicionamento da Marca
 
-<img width="311" height="334" alt="image" src="https://github.com/user-attachments/assets/8afc24ef-9134-4aca-a3ca-936507120430" />
-
-
-_______________________________________________________________________________________________________
-
-7. Posicionamento da Marca
-
-Desejo de ser percebida como empresa confiável, inovadora e estratégica.
+Desejo: ser percebida como empresa confiável, inovadora e estratégica.
 
 Principais atributos: inovação contínua, qualidade técnica, agilidade, parceria estratégica e credibilidade.
 
-_______________________________________________________________________________________________________
+8️⃣ Portfólio de Serviços
 
-8. Portfólio de Serviços
+Desenvolvimento de softwares sob medida
 
-Desenvolvimento de softwares sob medida.
+Criação de aplicativos móveis
 
-Criação de aplicativos móveis.
+Automação de processos e integração de sistemas
 
-Automação de processos e integração de sistemas.
+Consultoria em tecnologia
 
-Consultoria em tecnologia.
+Plataformas digitais e e-commerce
 
-Plataformas digitais e e-commerce.
+9️⃣ Estratégia de Preços
 
-_______________________________________________________________________________________________________
+Modelo: cobrança por projeto fechado, garantindo transparência e alinhamento de expectativas.
 
-9. Estratégia de Preços
+🔟 Marketing e Divulgação
 
-Modelo de cobrança por projeto fechado, garantindo transparência, planejamento e alinhamento de expectativas.
+Marketing de Conteúdo: blogs, e-books, estudos de caso, vídeos educativos
 
-_______________________________________________________________________________________________________
+Redes Sociais: LinkedIn, Instagram e YouTube
 
-10. Marketing e Divulgação
+Anúncios pagos: estratégicos para alcance segmentado
 
-Marketing de Conteúdo: blogs, e-books, estudos de caso e vídeos educativos.
+1️⃣1️⃣ Vendas e Relacionamento com Clientes
 
-Redes Sociais: LinkedIn, Instagram e YouTube para visibilidade e captação de clientes.
+Conversão de leads: contato direto, demonstrações, e-mail marketing
 
-Anúncios pagos estratégicos para alcance segmentado.
-
-_______________________________________________________________________________________________________
-
-11. Vendas e Relacionamento com Clientes
-
-Conversão de leads por contato direto, demonstrações e e-mail marketing.
-
-Relacionamento de longo prazo: pós-venda, suporte técnico, acompanhamento contínuo e fidelização.
+Relacionamento: pós-venda, suporte técnico, acompanhamento contínuo e fidelização
