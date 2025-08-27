@@ -1,6 +1,5 @@
 <h1 align="center">🏢 CODE6 - “Seis mentes, um propósito" 🚀</h1>
-🏢 Empresa - Sprint: CODE6
-___________________________________________________________________________________
+
 📌 Descrição do Projeto
 
 O projeto teve como objetivo a criação de uma empresa como parte da atividade prática da sprint, desenvolvendo sua identidade, proposta e comunicação visual.
