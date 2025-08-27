@@ -19,6 +19,7 @@ ________________________________________________________________________________
 Nome da empresa: Code6
 
 Logotipo:
+
 <img width="185" height="212" alt="Logotipo Code6" src="https://github.com/user-attachments/assets/53d908de-5223-4484-a853-1e9425608a7e" />
 
 Características da logo:
