@@ -33,90 +33,85 @@ ________________________________________________________________________________
 
 2️⃣ Apresentação Institucional
 
-Descrição: A Code6 cria soluções digitais personalizadas, como softwares sob medida, aplicativos móveis, sistemas de automação e plataformas digitais.
-
-Diferencial competitivo: excelência técnica, agilidade e proximidade com o cliente.
+A Code6 é uma empresa de tecnologia especializada em soluções digitais personalizadas, como softwares sob medida, aplicativos móveis, sistemas de automação e plataformas digitais. Seu diferencial está na excelência técnica, agilidade e proximidade com o cliente, garantindo soluções adaptadas às necessidades de cada organização.
 
 ___________________________________________________________________________________
+
 
 3️⃣ Missão, Visão e Proposta de Valor
 
-Missão: Desenvolver soluções digitais inovadoras, seguras e escaláveis.
+Missão: Desenvolver soluções digitais inovadoras, seguras e escaláveis, que facilitem processos e potencializem resultados.
 
 Visão: Ser reconhecida como referência em tecnologia no Brasil.
 
-Proposta de Valor: Inovação, personalização e agilidade como pilares estratégicos.
+Proposta de Valor: Inovação, personalização e agilidade como pilares estratégicos da empresa.
 
 ___________________________________________________________________________________
+
 
 4️⃣ Definição do Público-Alvo
 
-Segmento: Startups, setor financeiro, indústrias, varejo e empresas digitais.
-
-Principais desafios: Integração de sistemas, redução de custos, inovação e escalabilidade.
+Empresas que buscam crescer no comércio digital, enfrentando desafios como baixa visibilidade, processos manuais e dificuldade de alcançar novos públicos.
 
 ___________________________________________________________________________________
+
 
 5️⃣ Análise de Mercado e Concorrência
 
-Tendências do setor: inteligência artificial, computação em nuvem, segurança cibernética, mobile-first.
-
-Diferenciação: personalização e parceria estratégica com clientes.
+O setor de tecnologia cresce rapidamente, com destaque para inteligência artificial, computação em nuvem, cibersegurança, automação, apps e plataformas digitais.
+Diferencial Code6: soluções personalizadas, rápidas e atendimento próximo, destacando-se frente a concorrentes consolidados que carecem de agilidade e personalização.
 
 ___________________________________________________________________________________
+
 
 6️⃣ Identidade Visual e Comunicação
 
 Tipografia: Poppins
 
-Estilo Visual: moderno, limpo e profissional, com ícones minimalistas
+Estilo visual: moderno, limpo e profissional, com ícones minimalistas
 
-Tom de Marca: técnico, acessível e confiável
+Tom de marca: técnico, acessível e confiável
 
-<img width="311" height="334" alt="Identidade Visual Code6" src="https://github.com/user-attachments/assets/8afc24ef-9134-4aca-a3ca-936507120430" />
+Cores: tons de roxo, transmitindo confiança, cuidado e modernidade
+
+Figura – Identidade visual da Code6
 
 ___________________________________________________________________________________
+
 
 7️⃣ Posicionamento da Marca
 
-Desejo: ser percebida como empresa confiável, inovadora e estratégica.
+Percepção desejada: empresa confiável, inovadora e estratégica
 
-Principais atributos: inovação contínua, qualidade técnica, agilidade, parceria estratégica e credibilidade.
-
-___________________________________________________________________________________
-
-8️⃣ Portfólio de Serviços
-
-Desenvolvimento de softwares sob medida
-
-Criação de aplicativos móveis
-
-Automação de processos e integração de sistemas
-
-Consultoria em tecnologia
-
-Plataformas digitais e e-commerce
+Principais atributos: inovação contínua, qualidade técnica, agilidade, proximidade com o cliente e credibilidade no mercado
 
 ___________________________________________________________________________________
 
-9️⃣ Estratégia de Preços
 
-Modelo: cobrança por projeto fechado, garantindo transparência e alinhamento de expectativas.
+8️⃣ Estratégia de Preços
 
-___________________________________________________________________________________
-
-🔟 Marketing e Divulgação
-
-Marketing de Conteúdo: blogs, e-books, estudos de caso, vídeos educativos
-
-Redes Sociais: LinkedIn, Instagram e YouTube
-
-Anúncios pagos: estratégicos para alcance segmentado
+Cobrança por projeto fechado, garantindo transparência, planejamento financeiro e soluções personalizadas adaptadas às necessidades do cliente.
 
 ___________________________________________________________________________________
 
-1️⃣1️⃣ Vendas e Relacionamento com Clientes
 
-Conversão de leads: contato direto, demonstrações, e-mail marketing
+9️ Marketing e Divulgação
 
-Relacionamento: pós-venda, suporte técnico, acompanhamento contínuo e fidelização
+Redes sociais: (https://www.instagram.com/code6___)
+
+Marketing de conteúdo: blogs, e-books, estudos de caso e vídeos educativos
+
+Produtos promocionais: ecobags, canecas, capinhas, broches, canetas e cadernos
+
+
+<img width="945" height="630" alt="image" src="https://github.com/user-attachments/assets/61bf86b3-9aef-4c8a-b03b-76ffb0072b05" />
+
+
+___________________________________________________________________________________
+
+
+🔟 Vendas e Relacionamento com Clientes
+
+Conversão de leads por meio de contato direto, demonstrações e e-mail marketing, com atendimento próximo, suporte contínuo e acompanhamento pós-venda.
+
+Suporte técnico: disponível 24 horas, garantindo resolução ágil de problemas e fidelização dos clientes.
