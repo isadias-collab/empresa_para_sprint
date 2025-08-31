@@ -92,7 +92,7 @@ ________________________________________________________________________________
 
 9️ Marketing e Divulgação
 
-Redes sociais: (https://www.instagram.com/code6___)
+Redes sociais: (https://www.instagram.com/code6)
 
 Marketing de conteúdo: blogs, e-books, estudos de caso e vídeos educativos
 
@@ -110,3 +110,12 @@ ________________________________________________________________________________
 Conversão de leads por meio de contato direto, demonstrações e e-mail marketing, com atendimento próximo, suporte contínuo e acompanhamento pós-venda.
 
 Suporte técnico: disponível 24 horas, garantindo resolução ágil de problemas e fidelização dos clientes.
+
+
+Entre em Contato!
+
+📧 Email: code6@gmail.com
+🌐 Website: www.code6.com
+📞 Número: +55 11 97778-7880
+📱 Social Media: @code_6
+🏢 Endereço: Av. Paulista, São Paulo - SP
