@@ -115,7 +115,11 @@ Suporte técnico: disponível 24 horas, garantindo resolução ágil de problema
 Entre em Contato!
 
 📧 Email: code6@gmail.com
+
 🌐 Website: www.code6.com
+
 📞 Número: +55 11 97778-7880
+
 📱 Social Media: @code_6
+
 🏢 Endereço: Av. Paulista, São Paulo - SP
