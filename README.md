@@ -66,15 +66,10 @@ ________________________________________________________________________________
 
 6️⃣ Identidade Visual e Comunicação
 
-Tipografia: Poppins
 
-Estilo visual: moderno, limpo e profissional, com ícones minimalistas
+<img width="1020" height="846" alt="image" src="https://github.com/user-attachments/assets/dea2716a-1d7b-4c50-a157-4760e9fd7823" />
 
-Tom de marca: técnico, acessível e confiável
 
-Cores: tons de roxo, transmitindo confiança, cuidado e modernidade
-
-Figura – Identidade visual da Code6
 
 ___________________________________________________________________________________
 
